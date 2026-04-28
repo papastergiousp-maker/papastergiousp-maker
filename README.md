@@ -1,34 +1,34 @@
-# Hi, I'm Spyros 👋
+# Hi, I'm Spyros
 
-**Financial Data Analyst · Business Data Analyst · FinTech Enthusiast**
-Economist with an Integrated Master's in Business Administration. Based in Farsala, Greece. Open to work.
+Financial Data Analyst. Business Intelligence. FinTech.
 
-I build end-to-end pipelines from raw data to KPI dashboards — with a finance / banking lean. I work mostly with Python, SQL, Power BI, and Tableau, and I deploy live dashboards on my own domain.
+I'm an Economist with an Integrated Master's in Business Administration, based in Farsala, Greece. I build end-to-end pipelines from raw data to KPI dashboards, with a focus on banking, retail, and operations. Open to work.
 
----
+## Tech stack
 
-### Tech stack
+Python, SQL, SQLite, DAX, Power BI, Tableau, Advanced Excel, pandas, NumPy, Matplotlib, Plotly, Seaborn, pdfplumber, Jupyter.
 
-`Python` · `SQL` · `SQLite` · `DAX` · `Power BI` · `Tableau` · `Advanced Excel`
-`pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Seaborn` · `pdfplumber` · `Jupyter`
+## Where to find my work
 
----
+Portfolio site: https://phytai.com (live Plotly dashboard at phytai.com/dashboard)
+Full portfolio repo: https://github.com/papastergiousp-maker/My_Projects
+Tableau Public: https://public.tableau.com/app/profile/spyros.papastergiou
+Email: papastergiousp@gmail.com
 
-### Where to find my work
+## Signature project: Greek Banking Sector Analysis 2022 to 2024
 
-- Portfolio site: [phytai.com](https://phytai.com) (live Plotly dashboard at phytai.com/dashboard)
-- Headline portfolio repo: [My_Projects](https://github.com/papastergiousp-maker/My_Projects) — 26+ Python projects + interactive dashboards
-- Tableau Public: [public.tableau.com/app/profile/spyros.papastergiou](https://public.tableau.com/app/profile/spyros.papastergiou)
-- Email: papastergiousp@gmail.com
+A comparative analysis of the four Greek systemic banks (Eurobank, Alpha, Piraeus, NBG) using the STAR framework.
 
----
+Situation. The sector emerged from a decade of recapitalization. Rising rates from 2022 onwards opened a window to grow Net Interest Income, but each bank's efficiency and lending discipline diverged. No single comparable view existed.
 
-### Signature project
+Task. Build one comparable view of all four banks across profitability, efficiency, lending, and balance sheet strength.
 
-**Eurobank Financial Analysis 2022–2024** — full pipeline from official Annual Report PDFs to a Power BI dashboard with custom DAX measures. NII grew **+72%** over 2 years. Cost-to-Income improved from **46.8% → 33.0%**. ROE **16.9%** (above the European banking average ~12%). No pre-cleaned datasets — everything extracted directly from source.
-[→ See it in My_Projects](https://github.com/papastergiousp-maker/My_Projects)
+Action. Extracted financials from twelve official Annual Report PDFs with pdfplumber. Cleaned and reconciled across formats. Loaded into SQLite. Computed standardized KPIs. Built an interactive dashboard with sql.js running in the browser and Plotly charts.
 
----
+Result. Eurobank NII grew 72 percent in two years. Cost-to-Income improved from 46.8 to 33.0. ROE held above 15 percent. NBG showed the strongest NIM expansion (1.75 to 3.14). Live at phytai.com/dashboard.
 
-*Open to financial / business analytics, BI, and FinTech roles.*
+Repo: https://github.com/papastergiousp-maker/Greek-Banking-Financial-Analysis
 
+## What I'm targeting
+
+Financial / business analytics, BI, FinTech. Roles where the work runs from raw data through to a KPI story that drives a business decision.
